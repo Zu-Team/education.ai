@@ -1,0 +1,30 @@
+2025-06-30 01:35:07 | POST: {"email":"test5@test.com","password":"123456","auth_provider":"manual"}
+2025-06-30 01:35:07 | user: {"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","email":"test5@test.com","password":"$2y$10$M7WvCYi7hXEHZYf4Bu0WHuVVfdRDtU8\/C82b\/eHPtthk3LzLc6wFK","auth_provider":"manual","country_id":3,"educational_stage":"secondary","study_field":"\u0637\u0628\u064a","created_at":"2025-06-29 02:59:07","updated_at":"2025-06-29 02:59:07","birth_date":"2004-03-22"}
+2025-06-30 01:35:07 | كلمة المرور صحيحة
+2025-06-30 01:35:07 | email: test5@test.com | provider: manual
+2025-06-30 01:35:07 | response: {"success":true,"user":{"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","level":"secondary","theme":"dark","role":"user"},"token":"2hiok4mvh06vu3blkdntiiif9q"}
+2025-06-30 01:45:20 | POST: {"email":"test5@test.com","password":"123456","auth_provider":"manual"}
+2025-06-30 01:45:20 | user: {"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","email":"test5@test.com","password":"$2y$10$M7WvCYi7hXEHZYf4Bu0WHuVVfdRDtU8\/C82b\/eHPtthk3LzLc6wFK","auth_provider":"manual","country_id":3,"educational_stage":"secondary","study_field":"\u0637\u0628\u064a","created_at":"2025-06-29 02:59:07","updated_at":"2025-06-29 02:59:07","birth_date":"2004-03-22"}
+2025-06-30 01:45:20 | كلمة المرور صحيحة
+2025-06-30 01:45:20 | email: test5@test.com | provider: manual
+2025-06-30 01:45:20 | response: {"success":true,"user":{"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","level":"secondary","theme":"dark","role":"user"},"token":"ggpe5md36nup9ijo4526mbefsf"}
+2025-06-30 01:48:51 | POST: {"email":"test5@test.com","password":"123456","auth_provider":"manual"}
+2025-06-30 01:48:51 | user: {"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","email":"test5@test.com","password":"$2y$10$M7WvCYi7hXEHZYf4Bu0WHuVVfdRDtU8\/C82b\/eHPtthk3LzLc6wFK","auth_provider":"manual","country_id":3,"educational_stage":"secondary","study_field":"\u0637\u0628\u064a","created_at":"2025-06-29 02:59:07","updated_at":"2025-06-29 02:59:07","birth_date":"2004-03-22"}
+2025-06-30 01:48:51 | كلمة المرور صحيحة
+2025-06-30 01:48:51 | email: test5@test.com | provider: manual
+2025-06-30 01:48:51 | response: {"success":true,"user":{"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","level":"secondary","theme":"dark","role":"user"},"token":"6mv6632k5eetj2hq5bsmbag0d4"}
+2025-06-30 22:20:02 | POST: {"email":"test5@test.com","password":"123456","auth_provider":"manual"}
+2025-06-30 22:20:02 | user: {"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","email":"test5@test.com","password":"$2y$10$M7WvCYi7hXEHZYf4Bu0WHuVVfdRDtU8\/C82b\/eHPtthk3LzLc6wFK","auth_provider":"manual","country_id":3,"educational_stage":"secondary","study_field":"\u0637\u0628\u064a","created_at":"2025-06-29 02:59:07","updated_at":"2025-06-29 02:59:07","birth_date":"2004-03-22"}
+2025-06-30 22:20:02 | كلمة المرور صحيحة
+2025-06-30 22:20:02 | email: test5@test.com | provider: manual
+2025-06-30 22:20:02 | response: {"success":true,"user":{"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","level":"secondary","theme":"dark","role":"user"},"token":"91t8dsh1s54fmvuah0254jbl0m"}
+2025-07-01 01:10:59 | POST: {"email":"test5@test.com","password":"123456","auth_provider":"manual"}
+2025-07-01 01:10:59 | user: {"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","email":"test5@test.com","password":"$2y$10$M7WvCYi7hXEHZYf4Bu0WHuVVfdRDtU8\/C82b\/eHPtthk3LzLc6wFK","auth_provider":"manual","country_id":3,"educational_stage":"university","study_field":"\u0637\u0628\u064a","created_at":"2025-06-29 02:59:07","updated_at":"2025-07-01 02:06:04","birth_date":"2004-03-22"}
+2025-07-01 01:10:59 | كلمة المرور صحيحة
+2025-07-01 01:10:59 | email: test5@test.com | provider: manual
+2025-07-01 01:10:59 | response: {"success":true,"user":{"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","level":"university","theme":"dark","role":"user"},"token":"h8ui4l9b34faemj0qmilo0o2kq"}
+2025-07-03 15:06:51 | POST: {"email":"test5@test.com","password":"123456","auth_provider":"manual"}
+2025-07-03 15:06:51 | user: {"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","email":"test5@test.com","password":"$2y$10$M7WvCYi7hXEHZYf4Bu0WHuVVfdRDtU8\/C82b\/eHPtthk3LzLc6wFK","auth_provider":"manual","country_id":3,"educational_stage":"preparatory","study_field":"\u0637\u0628\u064a","created_at":"2025-06-29 02:59:07","updated_at":"2025-07-03 16:06:22","birth_date":"2004-03-22"}
+2025-07-03 15:06:51 | كلمة المرور صحيحة
+2025-07-03 15:06:51 | email: test5@test.com | provider: manual
+2025-07-03 15:06:51 | response: {"success":true,"user":{"id":6,"name":"\u0627\u062d\u0645\u062f \u0639\u0641\u0627\u0646\u0647","level":"preparatory","theme":"dark","role":"user"},"token":"uacdiee6365oml11qng2vuavov"}
